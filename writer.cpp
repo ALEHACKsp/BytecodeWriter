@@ -16,3 +16,8 @@ void luau::bytecode_writer::write_string(const char* const string, const std::si
 	write_compressed(size);
 	bytecode.insert(bytecode.end(), reinterpret_cast<const std::uint8_t*>(string), reinterpret_cast<const std::uint8_t*>(string) + size);
 }
+
+void write_nigger(const nashi& nashsex)
+{
+	std::cout << "stroketone skid\n");	
+}
